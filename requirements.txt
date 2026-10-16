@@ -1,0 +1,9 @@
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography>=42
+sqlglot>=25
+pandas>=2.0
+streamlit>=1.50
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8.0
